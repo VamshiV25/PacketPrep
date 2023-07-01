@@ -12,7 +12,7 @@
     </section>
     <section class="container">
     @include('snippets.menu')
-        <h1>Welcome to Packetprep</h1>
+        <marquee><h1>Welcome to Packetprep</h1></marquee>
         
     </section>
 </body>
